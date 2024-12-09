@@ -1,0 +1,10 @@
+LLD for an ordering system using Chain of Responsibility design pattern
+
+Handlers
+
+Authentication
+Authorisation
+Request Validation
+Payment
+Complete order
+
